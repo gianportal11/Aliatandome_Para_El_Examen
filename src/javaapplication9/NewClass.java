@@ -9,5 +9,6 @@ package javaapplication9;
  * @author gianp
  */
 public class NewClass {
-    
+    private String nombre;
+    private String apellido;
 }
