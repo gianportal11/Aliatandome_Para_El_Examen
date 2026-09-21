@@ -11,4 +11,5 @@ package javaapplication9;
 public class NewClass {
     private String nombre;
     private String apellido;
+   private String ellido;
 }
